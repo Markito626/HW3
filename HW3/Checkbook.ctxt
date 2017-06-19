@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Checkbook
+comment0.text=\r\n\ Check\ book\r\n\r\n\ @author\ (Mark\ Miner)\r\n\ @\ 6/5/17\r\n
+comment1.params=
+comment1.target=Checkbook()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Check\r\n
+comment2.params=
+comment2.target=void\ printChecks()
+comment2.text=\r\n\ Print\ the\ checks\r\n
+numComments=3
