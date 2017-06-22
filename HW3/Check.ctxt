@@ -3,4 +3,6 @@ comment0.target=Check
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ check\ here.\r\n\r\n\ @author\ (Mark\ Miner)\r\n\ @version\ (6/8/17)\r\n
 comment1.params=d\ c\ r\ p\ a
 comment1.target=Check(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double)
-numComments=2
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
